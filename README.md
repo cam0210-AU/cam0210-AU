@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+Im learning as much as I can about GitHub
 <!--
-**cam0210-AU/cam0210-AU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
